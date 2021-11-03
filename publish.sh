@@ -1,8 +1,9 @@
 #!/bin/bash
-rm output/*
 
-#Fonts
-cp *.ttf output
+rm -f output/*
+mkdir output
+
+cp fonts/*.ttf output
 
 PANDOC=$(which pandoc)
 
