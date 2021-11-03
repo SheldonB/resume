@@ -15,5 +15,5 @@ jobs:
             
     - name: Build the resume
       run: |
-        mkdir output
+        mkdir output \
         docker run -it -v $PWD/output:/tmp/build/output sheldon-burks-resume:latest
