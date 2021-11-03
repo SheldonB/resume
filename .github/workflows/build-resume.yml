@@ -9,11 +9,12 @@ jobs:
   build-image:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - name: Build the Docker image
-      run: docker build . --file Dockerfile --tag sheldon-burks-resume:latest
+    #- uses: actions/checkout@v2
+    # name: Build the Docker image
+    #  run: docker build . --file Dockerfile --tag sheldon-burks-resume:latest
+    
+    - name: Make output dir
+      run: mkdir ./output
             
     - name: Build the resume
-      run: |
-        mkdir output \
-        docker run -it -v $PWD/output:/tmp/build/output sheldon-burks-resume:latest
+      run: docker run -it -v $PWD/output:/tmp/build/output sheldon-burks-resume:latest
