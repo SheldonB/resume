@@ -17,4 +17,4 @@ jobs:
       run: mkdir ./output
             
     - name: Build the resume
-      run: docker run -it -v $PWD/output:/tmp/build/output sheldon-burks-resume:latest
+      run: docker run -t -v $PWD/output:/tmp/build/output sheldon-burks-resume:latest
