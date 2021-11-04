@@ -25,8 +25,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        tag_name: resume
-        release_name: resume
+        release_name: sheldon_burks_resume
         draft: false
         prerelease: false
         
@@ -39,3 +38,4 @@ jobs:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
         asset_path: ./output/sheldon_burks_resume.pdf
         asset_name: sheldon_burks_resume.pdf
+        asset_content_type: application/pdf
