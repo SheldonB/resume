@@ -16,20 +16,20 @@ GitHub: <https://github.com/SheldonB>
 
 **Senior Software Engineer, Technical Lead - Lexmark International**, February 2021 - Present
 
-* Lead the technical design and implementation of a cloud-driven, real-time, firmware based IoT solution. This solution is used for real-time printer fleet management and device telemetry collection.
+* Led the technical design and implementation of a cloud-driven, real-time IoT solution. This solution is used for real-time printer fleet management and device telemetry collection.
 * Implemented a manufacturing-based zero-touch, IoT provisioning system to enable device communication out-of-the-box to Lexmark Cloud.
 * Designed a cloud-based predictive analytics collection engine. This engine is used to feed AI/ML systems for predictive service notification on devices.
 * Served as a key technical leader in facilitating my teams' transition from traditional Agile Scrum development to the Scaled Agile Framework.
 
 **Software Engineer - Lexmark International**, June 2019 - February 2021
 
-* Developed an IoT edge based system for collecting device telemetry data for Lexmark's Cloud Fleet Management solution.
+* Worked on the team that developed an IoT edge based system for collecting device telemetry data for Lexmark's Cloud Fleet Management solution.
 * Helped in facilitating the transition of 20 (micro) services from AWS Elastic Container Services to Kubernetes.
 * Helped facilitate moving Lexmark Cloud Fleet Management services from Amazon Web Services to Microsoft Azure with minimal downtime.
  
 **Technical Rotational Employee - Lexmark International**, June 2017 - June 2019
 
-* Developed the Lexmark Remote Asset Manager, which is used as a premise-based fleet management data collector for Lexmark and third-party printers.
+* Helped deliver and maintain the Lexmark Remote Asset Manager, which is used as a premise-based fleet management data collector for Lexmark and third-party printers.
 * Supported Lexmark's premise based fleet management solution, MarkVision Enterprise, as a "Customer Success Engineer". I Worked first-hand with Lexmark customers to solve technical field issues.
 
 **Software Engineer - Solstice Inc.**, August 2015 - June 2017
