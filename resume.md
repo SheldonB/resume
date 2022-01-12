@@ -14,7 +14,9 @@ GitHub: <https://github.com/SheldonB>
 
 ## Experience
 
-**Senior Software Engineer, Technical Lead - Lexmark International**, February 2021 - Present
+**Senior Software Engineer, Oracle**, January 2022 - Present
+
+**Senior Software Engineer, Technical Lead - Lexmark International**, February 2021 - January 2022
 
 * Led the technical design and implementation of a cloud-driven, real-time IoT solution. This solution is used for real-time printer fleet management and device telemetry collection.
 * Implemented a manufacturing-based zero-touch, IoT provisioning system to enable device communication out-of-the-box to Lexmark Cloud.
