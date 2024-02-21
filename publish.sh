@@ -1,9 +1,7 @@
 #!/bin/bash
 
-rm -f output/*
-mkdir output
-
-cp fonts/*.ttf output
+rm -rf output/*
+mkdir -p output
 
 PANDOC=$(which pandoc)
 
@@ -17,6 +15,4 @@ $PANDOC resume.md -o output/resume.html -t html5 \
   --include-after-body=_pandoc/footer.html \
   --variable="pagetitle:Resume :: Sheldon Burks"
 
-$PANDOC resume.md -o output/sheldon_burks_resume.odt --reference-doc=_pandoc/reference.odt
-
-soffice --headless --convert-to pdf output/sheldon_burks_resume.odt --outdir output
+google-chrome-stable --headless --no-sandbox --disable-gpu --no-pdf-header-footer --print-to-pdf=output/resume.pdf output/resume.html

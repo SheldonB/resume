@@ -1,12 +1,8 @@
----
-fontsize: 20pt
-dir: ltr
----
 # Sheldon Burks
 
-Phone: (270) 404-2857   
-Email: <sheldon.burks@gmail.com>    
-GitHub: <https://github.com/SheldonB>  
+Phone: (270) 404-2857 <br>
+Email: <sheldon.burks@gmail.com> <br>
+GitHub: <https://github.com/SheldonB>
 
 ## Education
 
@@ -28,7 +24,7 @@ GitHub: <https://github.com/SheldonB>
 * Worked on the team that developed an IoT edge based system for collecting device telemetry data for Lexmark's Cloud Fleet Management solution.
 * Helped in facilitating the transition of 20 (micro) services from AWS Elastic Container Services to Kubernetes.
 * Helped facilitate moving Lexmark Cloud Fleet Management services from Amazon Web Services to Microsoft Azure with minimal downtime.
- 
+
 **Technical Rotational Employee - Lexmark International**, June 2017 - June 2019
 
 * Helped deliver and maintain the Lexmark Remote Asset Manager, which is used as a premise-based fleet management data collector for Lexmark and third-party printers.
