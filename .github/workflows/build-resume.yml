@@ -12,15 +12,15 @@ jobs:
     - uses: actions/checkout@v2
     - name: Build the Docker image
       run: docker build . --file Dockerfile --tag sheldon-burks-resume:latest
-    
+
     - name: Make output dir
       run: mkdir ./output
-            
+
     - name: Build the resume
       run: docker run -t -v $PWD/output:/tmp/build/output sheldon-burks-resume:latest
-      
+
     - name: Release
       uses: softprops/action-gh-release@v1
       with:
         tag_name: released
-        files: output/sheldon_burks_resume.pdf
+        files: output/resume.pdf
