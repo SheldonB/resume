@@ -10,44 +10,41 @@ GitHub: <https://github.com/SheldonB>
 
 ## Experience
 
-**Senior Software Engineer, Oracle**, January 2022 - Present
+**Principal Software Engineer, Oracle Cloud Infrastructure**, January 2022 - Present
 
-**Senior Software Engineer, Technical Lead - Lexmark International**, February 2021 - January 2022
+* Led and executed a cross-organization V-team spanning the Bare Metal and Virtual Machine Control Planes to deliver a new hypervisor and VM boot mechanism, coordinating closely with data plane teams to align architectures in support of OCI data center footprint reduction initiatives.
+* Served as the single-threaded owner of a load-shedding system for the Compute Control Plane, later adopted by multiple OCI teams to safeguard service availability under high load and degradation conditions.
+* Raised the technical bar by mentoring engineers across levels and influencing cloud infrastructure design through regular participation in Compute and OCI-wide architecture reviews.
 
-* Led the technical design and implementation of a cloud-driven, real-time IoT solution. This solution is used for real-time printer fleet management and device telemetry collection.
-* Implemented a manufacturing-based zero-touch, IoT provisioning system to enable device communication out-of-the-box to Lexmark Cloud.
-* Designed a cloud-based predictive analytics collection engine. This engine is used to feed AI/ML systems for predictive service notification on devices.
-* Served as a key technical leader in facilitating my teams' transition from traditional Agile Scrum development to the Scaled Agile Framework.
+**Senior Software Engineer, Lexmark International**, June 2017 - January 2022
 
-**Software Engineer - Lexmark International**, June 2019 - February 2021
+* Led the technical design and end-to-end implementation of a cloud-driven, real-time IoT platform supporting large-scale printer fleet management and device telemetry ingestion.
+* Designed and delivered a manufacturing-integrated, zero-touch IoT provisioning system, enabling devices to securely connect to Lexmark Cloud immediately out-of-the-box.
+* Architected a cloud-based predictive analytics ingestion pipeline used to power backend AI/ML systems for proactive service notifications.
+* Partnered closely with firmware and quality assurance teams in the Philippines and India to align device firmware and cloud services into a cohesive, IoT solution.
 
-* Worked on the team that developed an IoT edge based system for collecting device telemetry data for Lexmark's Cloud Fleet Management solution.
-* Helped in facilitating the transition of 20 (micro) services from AWS Elastic Container Services to Kubernetes.
-* Helped facilitate moving Lexmark Cloud Fleet Management services from Amazon Web Services to Microsoft Azure with minimal downtime.
+**Software Engineer, Solstice Inc.**, August 2015 - June 2017
 
-**Technical Rotational Employee - Lexmark International**, June 2017 - June 2019
-
-* Helped deliver and maintain the Lexmark Remote Asset Manager, which is used as a premise-based fleet management data collector for Lexmark and third-party printers.
-* Supported Lexmark's premise based fleet management solution, MarkVision Enterprise, as a "Customer Success Engineer". I Worked first-hand with Lexmark customers to solve technical field issues.
-
-**Software Engineer - Solstice Inc.**, August 2015 - June 2017
-
-* Worked on a remote team to develop mission critical production management software for plastic factories and paper mills, specializing in inventory management, quality control, production, efficiency, and scheduling.
-* Developed quality control module to assist in the estimated savings of $1 million within 5 years of installation.
+* Owned the design and development of a factory production line quality control system, contributing to an estimated $1M in cost savings over five years through improved defect detection.
+* Developed mission-critical production management software for plastic factories and paper mills, supporting inventory management, quality control, production tracking, efficiency analysis, and scheduling.
+* Worked directly with manufacturing stakeholders and factory operators to translate operational constraints into real-world systems deployed in industrial environments.
 
 ## Skills
 
-**Languages and Technologies**:
+**Expertise**
 
-* **Professional level:** Java, Groovy, Spring/Spring Boot, PostgreSQL, Azure IoT
-* **Current knowledge:** Python, JavaScript/TypeScript, Angular.js, node.js, Docker, Kubernetes, Azure Service Bus, Azure Event Hub, Azure Blob Storage, Git, Subversion
-* **Previous experience:** C#, .NET, Microsoft SQL Server, React.js, Django, Flask
+* Java
+* Distributed systems, control plane architectures, and cloud-to-device communication systems
+* Service design, data modeling (relational and non-relational)
+* Reliability engineering and operational excellence
 
-**Other Skills**:
+**Working Experience**
 
-* Rest API Design, Microservice Design, Scrum, Kanban, Scaled Agile Framework, IoT Architecture
+* Python, JavaScript / TypeScript, Node.js
+* Docker, Kubernetes
+* PostgreSQL, SQL Server
+* Amazon Web Services (AWS), Azure
 
-**Additional Acknowledgements**
+**Exposure**
 
-* Kentucky State FFA Officer (2014)
-* Louisville Startup Weekend Participant
+* C#, React.js
