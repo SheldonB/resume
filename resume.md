@@ -2,32 +2,34 @@
 
 Phone: (270) 404-2857 <br>
 Email: <sheldon.burks@gmail.com> <br>
+LinkedIn: <https://linkedin.com/in/sheldonburks/> <br>
 GitHub: <https://github.com/SheldonB>
-
-## Education
-
-2013 - 2017: University of Louisville - B.S. in Computer Engineering and Computer Science, GPA - 3.92
 
 ## Experience
 
 **Principal Software Engineer, Oracle Cloud Infrastructure**, January 2022 - Present
 
-* Led and executed a cross-organization V-team spanning the Bare Metal and Virtual Machine Control Planes to deliver a new hypervisor and VM boot mechanism, coordinating closely with data plane teams to align architectures in support of OCI data center footprint reduction initiatives.
-* Served as the single-threaded owner of a load-shedding system for the Compute Control Plane, later adopted by multiple OCI teams to safeguard service availability under high load and degradation conditions.
-* Raised the technical bar by mentoring engineers across levels and influencing cloud infrastructure design through regular participation in Compute and OCI-wide architecture reviews.
+* Led a cross-team effort across OCI Compute to deliver a new hypervisor and VM boot path, supporting data center footprint reduction.
+* Built and owned a load-shedding system for the Compute Control Plane that protected availability during overload and degraded conditions; the design was later adopted by multiple OCI teams.
+* Helped shape critical compute systems through hands-on design work, engineering mentorship, and architecture reviews across Compute and OCI.
 
 **Senior Software Engineer, Lexmark International**, June 2017 - January 2022
 
-* Led the technical design and end-to-end implementation of a cloud-driven, real-time IoT platform supporting large-scale printer fleet management and device telemetry ingestion.
-* Designed and delivered a manufacturing-integrated, zero-touch IoT provisioning system, enabling devices to securely connect to Lexmark Cloud immediately out-of-the-box.
-* Architected a cloud-based predictive analytics ingestion pipeline used to power backend AI/ML systems for proactive service notifications.
-* Partnered closely with firmware and quality assurance teams in the Philippines and India to align device firmware and cloud services into a cohesive, IoT solution.
+* Led design and delivery of a cloud IoT platform for real-time printer fleet management and telemetry ingestion.
+* Built a zero-touch provisioning system integrated with manufacturing, enabling devices to securely connect to Lexmark Cloud out of the box.
+* Designed the ingestion pipeline behind predictive service notifications, turning device telemetry into backend AI/ML capabilities.
+* Worked across firmware, QA, and cloud teams to ship a cohesive device-to-cloud platform.
 
 **Software Engineer, Solstice Inc.**, August 2015 - June 2017
 
-* Owned the design and development of a factory production line quality control system, contributing to an estimated $1M in cost savings over five years through improved defect detection.
-* Developed mission-critical production management software for plastic factories and paper mills, supporting inventory management, quality control, production tracking, efficiency analysis, and scheduling.
-* Worked directly with manufacturing stakeholders and factory operators to translate operational constraints into real-world systems deployed in industrial environments.
+* Shipped production management software for plastics and paper manufacturers, covering inventory, scheduling, quality control, production tracking, and efficiency analysis.
+* Designed, built, and owned a factory quality control system that improved defect detection and contributed an estimated $1M in cost savings over five years.
+* Turned urgent needs from factory operators and business stakeholders into software deployed in live industrial environments.
+* Worked in a sub-10-person startup environment with high ownership and fast delivery cycles, building customer-facing industrial software end to end.
+
+## Education
+
+2013 - 2017: University of Louisville - B.S. in Computer Engineering and Computer Science, GPA - 3.92
 
 ## Skills
 
@@ -40,11 +42,7 @@ GitHub: <https://github.com/SheldonB>
 
 **Working Experience**
 
-* Python, JavaScript / TypeScript, Node.js
+* Python, JavaScript / TypeScript, Node.js, C#, React.js
 * Docker, Kubernetes
 * PostgreSQL, SQL Server
 * Amazon Web Services (AWS), Azure
-
-**Exposure**
-
-* C#, React.js
