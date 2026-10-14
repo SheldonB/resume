@@ -19,7 +19,12 @@
     font-size: 40pt;
     font-weight: normal;
     text-transform: uppercase;
+    text-align: center;
     margin: 1.3em 0 0;
+  }
+
+  h1 + p {
+    text-align: center;
   }
 
   h2 {
@@ -99,6 +104,11 @@
 
     h1 {
       font-size: 16pt;
+      margin-top: 0;
+    }
+
+    h1 + p {
+      margin-top: 0.4em;
     }
 
     h2 {
@@ -126,7 +136,8 @@
       border: 0;
     }
 
-    #downloads {
+    #downloads,
+    #clear_foot {
       display: none;
     }
 
